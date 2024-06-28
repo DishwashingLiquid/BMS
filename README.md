@@ -1,4 +1,4 @@
-# Kamias-Connect
+# K-Connect
 
 An on-going project for a Barangay in Quezon City.
 
